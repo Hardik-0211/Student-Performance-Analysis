@@ -17,5 +17,5 @@
   - Grade: rankk function return rank according to the average of marks ( A = 80+ , B = 60+ , C = 50+ , D = 35+ , F = less than  30 )
 
 ## How to Run 
-  1. install dependencies: 'pip install pandas numpy'.
+  1. Install dependencies: 'pip install pandas numpy'.
   2. Run: 'python student_performance_analysis.py'.
